@@ -2,3 +2,5 @@ Mars is red.
 
 Mars has two moons. 
 Mars is the fourth planet in the solar system. 
+
+There may be water on Mars.
